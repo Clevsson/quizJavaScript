@@ -1,6 +1,6 @@
 # quizJavaScript
 Quiz conhecimentos em JavaScript
 
--HTML
--CSS
--JavaScript
+- HTML
+- CSS
+- JavaScript
