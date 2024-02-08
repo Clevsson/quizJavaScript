@@ -1,5 +1,5 @@
 # quizJavaScript
-Quiz conhecimentos em JavaScript
+Quiz de conhecimentos
 
 - HTML
 - CSS

@@ -1,4 +1,4 @@
-const perguntas = [
+/*const perguntas = [
     {
         pergunta: "O que é JavaScript?",
         respostas: [
@@ -89,7 +89,102 @@ const perguntas = [
         ],
         correta: 2
     },
+];*/
+
+
+const perguntas = [
+    {
+        pergunta: "Qual é o principal objetivo do aconselhamento em psicologia?",
+        respostas: [
+            "A) Diagnóstico de doenças mentais",
+            "B) Promover o autoconhecimento e o desenvolvimento pessoal",
+            "C) Prescrição de medicamentos psicotrópicos",
+        ],
+        correta: 1
+    },
+    {
+        pergunta: "Qual abordagem terapêutica se concentra na identificação e modificação de pensamentos negativos?",
+        respostas: [
+            "A) Psicanálise",
+            "B) Terapia Cognitivo-Comportamental",
+            "C) Gestalt-terapia",
+        ],
+        correta: 1
+    },
+    {
+        pergunta: "O que é empatia no contexto do aconselhamento psicológico?",
+        respostas: [
+            "A) Desinteresse pelas emoções do cliente",
+            "B) Compreensão e compartilhamento das emoções do cliente",
+            "C) Manipulação das emoções do cliente",
+        ],
+        correta: 1
+    },
+    {
+        pergunta: "Quais são as fases típicas de um processo de aconselhamento?",
+        respostas: [
+            "A) Introdução, conclusão e feedback",
+            "B) Exploração, compreensão e ação",
+            "C) Avaliação, diagnóstico e prescrição",
+        ],
+        correta: 2
+    },
+    {
+        pergunta: "O que é a transferência na psicanálise?",
+        respostas: [
+            "A) Troca de informações entre cliente e terapeuta",
+            "B) Projeção de sentimentos do cliente sobre o terapeuta",
+            "C) Interação social fora do consultório",
+        ],
+        correta: 1
+    },
+    {
+        pergunta: "Qual é a importância do rapport no aconselhamento psicológico?",
+        respostas: [
+            "A) Criar uma atmosfera de confiança e conexão",
+            "B) Diagnosticar rapidamente os problemas do cliente",
+            "C) Impor autoridade ao terapeuta",
+        ],
+        correta: 0
+    },
+    {
+        pergunta: "O que significa a sigla HIPAA no contexto da privacidade em saúde nos Estados Unidos?",
+        respostas: [
+            "A) Health Information Privacy and Accountability Act",
+            "B) Human Insight and Personalized Analysis Act",
+            "C) Helping Individuals with Psychological Assistance and Awareness",
+        ],
+        correta: 0
+    },
+    {
+        pergunta: "Qual é o papel do consentimento informado no aconselhamento psicológico?",
+        respostas: [
+            "A) Documentar as sessões de terapia",
+            "B) Obter permissão ética do cliente antes do tratamento",
+            "C) Diagnosticar doenças mentais",
+        ],
+        correta: 1
+    },
+    {
+        pergunta: "O que caracteriza a abordagem humanista no aconselhamento?",
+        respostas: [
+            "A) Foco na modificação de comportamentos",
+            "B) Valorização da autoatualização e crescimento pessoal",
+            "C) Ênfase na análise do inconsciente",
+        ],
+        correta: 1
+    },
+    {
+        pergunta: "Quais são as habilidades essenciais de um bom terapeuta?",
+        respostas: [
+            "A) Diagnóstico preciso e prescrição de medicamentos",
+            "B) Empatia, escuta ativa e habilidades de comunicação",
+            "C) Autoridade e controle sobre o cliente",
+        ],
+        correta: 1
+    },
 ];
+
 
 
 //console.log(perguntas[3].respostas[perguntas[0].correta])
