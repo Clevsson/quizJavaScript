@@ -1,2 +1,6 @@
 # quizJavaScript
-Quiz feito com HTML CSS e JavaScript
+Quiz conhecimentos em JavaScript
+
+-HTML
+-CSS
+-JavaScript
