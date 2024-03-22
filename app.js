@@ -246,7 +246,161 @@ const perguntas = [
             "C. Receber uma recompensa por completar uma tarefa",
         ],
         correta: 1
+    },
+    {
+        pergunta: "Quem é considerado o fundador do behaviorismo?",
+        respostas: [
+            "A. Sigmund Freud",
+            "B. Ivan Pavlov",
+            "C. John B. Watson",
+        ],
+        correta: 2
+    },
+    {
+        pergunta: "O que o behaviorismo estuda principalmente?",
+        respostas: [
+            "A. Pensamentos e sentimentos",
+            "B. Comportamento observável",
+            "C. Intuição e criatividade",
+        ],
+        correta: 1
+    },
+    {
+        pergunta: "Qual é o termo para o processo de aprendizagem que envolve a associação entre estímulos?",
+        respostas: [
+            "A. Condicionamento operante",
+            "B. Condicionamento clássico",
+            "C. Reforço positivo",
+        ],
+        correta: 1
+    },
+    {
+        pergunta: "Quem desenvolveu a teoria do condicionamento clássico?",
+        respostas: [
+            "A. Sigmund Freud",
+            "B. B.F. Skinner",
+            "C. Ivan Pavlov",
+        ],
+        correta: 2
+    },
+    {
+        pergunta: "Qual dos seguintes é um exemplo de reforço positivo?",
+        respostas: [
+            "A. Receber uma multa por excesso de velocidade",
+            "B. Receber elogios por bom comportamento",
+            "C. Perder privilégios por mau comportamento",
+        ],
+        correta: 1
+    },
+    {
+        pergunta: "Quais são os principais métodos de pesquisa usados pelo behaviorismo?",
+        respostas: [
+            "A. Observação e introspecção",
+            "B. Experimentação e entrevistas",
+            "C. Observação e experimentação controlada",
+        ],
+        correta: 2
+    },
+    {
+        pergunta: "Qual é o objetivo principal do behaviorismo aplicado?",
+        respostas: [
+            "A. Investigar a mente inconsciente",
+            "B. Aplicar os princípios do behaviorismo para resolver problemas práticos",
+            "C. Estudar a autoconsciência",
+        ],
+        correta: 1
+    },
+    {
+        pergunta: "Como o behaviorismo aborda a aprendizagem?",
+        respostas: [
+            "A. Através do estudo da mente inconsciente",
+            "B. Através do estudo do comportamento observável e de suas relações com o ambiente",
+            "C. Através da introspecção",
+        ],
+        correta: 1
+    },
+    {
+        pergunta: "Qual é a diferença entre condicionamento clássico e condicionamento operante?",
+        respostas: [
+            "A. Condicionamento clássico envolve associações entre estímulos, enquanto o condicionamento operante envolve associações entre comportamentos e consequências.",
+            "B. Condicionamento clássico envolve reforços positivos, enquanto o condicionamento operante envolve reforços negativos.",
+            "C. Condicionamento clássico é um processo consciente, enquanto o condicionamento operante é um processo inconsciente.",
+        ],
+        correta: 0
+    },
+    {
+        pergunta: "Qual é a contribuição de Burrhus Frederic Skinner para o behaviorismo?",
+        respostas: [
+            "A. Desenvolvimento da teoria do condicionamento clássico",
+            "B. Desenvolvimento da teoria do condicionamento operante",
+            "C. Desenvolvimento da teoria da autoconsciência",
+        ],
+        correta: 1
+    },
+    {
+        pergunta: "O que é reforço negativo no contexto do behaviorismo?",
+        respostas: [
+            "A. Adicionar um estímulo para aumentar a frequência de um comportamento",
+            "B. Remover um estímulo para diminuir a frequência de um comportamento",
+            "C. Adicionar um estímulo para diminuir a frequência de um comportamento",
+        ],
+        correta: 1
+    },
+    {
+        pergunta: "Qual é o termo para descrever a diminuição na frequência de um comportamento como resultado da falta de reforço?",
+        respostas: [
+            "A. Extinção",
+            "B. Punição",
+            "C. Generalização",
+        ],
+        correta: 0
+    },
+    {
+        pergunta: "Quais são os principais métodos de pesquisa utilizados pelo behaviorismo?",
+        respostas: [
+            "A. Introspecção e experimentação",
+            "B. Observação e entrevistas",
+            "C. Observação e experimentação controlada",
+        ],
+        correta: 2
+    },
+    {
+        pergunta: "Qual é o papel do ambiente no behaviorismo?",
+        respostas: [
+            "A. O ambiente tem pouca influência sobre o comportamento humano.",
+            "B. O ambiente molda completamente o comportamento humano.",
+            "C. O ambiente interage com fatores genéticos para influenciar o comportamento humano.",
+        ],
+        correta: 2
+    },
+    {
+        pergunta: "Qual é o objetivo principal do behaviorismo radical?",
+        respostas: [
+            "A. Estudo da mente humana",
+            "B. Compreensão das emoções",
+            "C. Comportamento como resposta a estímulos ambientais",
+        ],
+        correta: 2
+    },
+    {
+        pergunta: "Qual é o principal objetivo do behaviorismo?",
+        respostas: [
+            "A. Compreender a mente inconsciente",
+            "B. Prever e controlar o comportamento",
+            "C. Explorar a autoconsciência",
+        ],
+        correta: 1
+    },
+    {
+        pergunta: "O que é punição no contexto do behaviorismo?",
+        respostas: [
+            "A. Adicionar um estímulo para aumentar a frequência de um comportamento",
+            "B. Remover um estímulo para diminuir a frequência de um comportamento",
+            "C. Adicionar um estímulo para diminuir a frequência de um comportamento",
+        ],
+        correta: 2
     }
+
 ];
 
 
